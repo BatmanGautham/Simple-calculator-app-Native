@@ -12,7 +12,7 @@
   
 ## Installation
 
-**Clone the repository
+Clone the repository
 
 Navigate to the project directory:
 cd gs-calculator
