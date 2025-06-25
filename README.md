@@ -18,8 +18,8 @@ Navigate to the project directory:
 cd gs-calculator
 
 Install dependencies and start the app:
--npm install
--npm start
--Open the Expo Go app on your mobile device and scan the QR code shown in the terminal or browser to run the app.
+- npm install
+- npm start
+- Open the Expo Go app on your mobile device and scan the QR code shown in the terminal or browser to run the app.
 
 <img src="./assets/images/calc-screenshot.jpg" alt="Calculator Screenshot" height="400" />
